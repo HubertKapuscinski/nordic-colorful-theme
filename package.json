@@ -1,0 +1,21 @@
+{
+    "name": "nordic-colorful-theme",
+    "displayName": "Nordic Colorful Theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nordic Colorful Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nordic Colorful Theme-color-theme.json"
+            }
+        ]
+    }
+}
